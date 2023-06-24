@@ -1,0 +1,35 @@
+.container{
+  background-color:lightgrey;
+  width:323px;
+  border:2px solid black;
+}
+.output{
+  text-align:right;
+  font-size:30px;
+  border-bottom:1px solid black;
+}
+.ac{
+  background-color:#a02020!important;
+  width:160px!important;
+}
+
+.num{
+  justify-content:center;
+  margin-left:-27px;
+  width:350px;
+}
+.one{
+  margin-right:80px;
+}
+.num button{
+  width:80px; 
+  height:65px;
+  font-size:18px;
+}
+.zero{
+  margin-top:-50px!important;
+  width:150px!important;
+}
+.dot{
+  margin-top:-50px!important;
+}
